@@ -31,11 +31,11 @@ Vivek Pandey (1AY18MCA43)    -Backend
 <img src="https://github.com/mirajhad/Railway-Reservation-System/blob/main/IMAGES/registration.jpg"></img>
 
 # User Booking
-<img src=https://github.com/mirajhad/Railway-Reservation-System/blob/main/IMAGES/user%20booking.jpg"></img>
+<img src="https://github.com/mirajhad/Railway-Reservation-System/blob/main/IMAGES/user%20booking.jpg"></img>
 
 # DFD
 <img src="https://github.com/mirajhad/Railway-Reservation-System/blob/main/DFD/dfd%20user.png"></img>
 
 
 
-#THANK YOU................
+# THANK YOU................
