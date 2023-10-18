@@ -1,0 +1,7 @@
+c:\users\om sai ram\documents\visual studio 2012\Projects\mini project\mini project\bin\mini project.dll
+c:\users\om sai ram\documents\visual studio 2012\Projects\mini project\mini project\bin\mini project.pdb
+c:\users\om sai ram\documents\visual studio 2012\Projects\mini project\mini project\obj\Debug\mini project.csprojResolveAssemblyReference.cache
+c:\users\om sai ram\documents\visual studio 2012\Projects\mini project\mini project\obj\Debug\mini project.dll
+c:\users\om sai ram\documents\visual studio 2012\Projects\mini project\mini project\obj\Debug\mini project.pdb
+C:\Users\OM SAI RAM\documents\visual studio 2012\Projects\mini project\mini project\bin\paytm.dll
+C:\Users\OM SAI RAM\documents\visual studio 2012\Projects\mini project\mini project\bin\AjaxControlToolkit.dll
