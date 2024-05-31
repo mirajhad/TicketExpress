@@ -5,3 +5,12 @@ c:\users\om sai ram\documents\visual studio 2012\Projects\mini project\mini proj
 c:\users\om sai ram\documents\visual studio 2012\Projects\mini project\mini project\obj\Debug\mini project.pdb
 C:\Users\OM SAI RAM\documents\visual studio 2012\Projects\mini project\mini project\bin\paytm.dll
 C:\Users\OM SAI RAM\documents\visual studio 2012\Projects\mini project\mini project\bin\AjaxControlToolkit.dll
+C:\Users\Miraj\Source\Repos\TicketExpress\mini project\bin\mini project.dll.config
+C:\Users\Miraj\Source\Repos\TicketExpress\mini project\bin\mini project.dll
+C:\Users\Miraj\Source\Repos\TicketExpress\mini project\bin\mini project.pdb
+C:\Users\Miraj\Source\Repos\TicketExpress\mini project\bin\paytm.dll
+C:\Users\Miraj\Source\Repos\TicketExpress\mini project\obj\Debug\mini project.csproj.AssemblyReference.cache
+C:\Users\Miraj\Source\Repos\TicketExpress\mini project\obj\Debug\mini project.csproj.CoreCompileInputs.cache
+C:\Users\Miraj\Source\Repos\TicketExpress\mini project\obj\Debug\mini pro.0B62A001.Up2Date
+C:\Users\Miraj\Source\Repos\TicketExpress\mini project\obj\Debug\mini project.dll
+C:\Users\Miraj\Source\Repos\TicketExpress\mini project\obj\Debug\mini project.pdb
